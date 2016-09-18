@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SistemaMotoFrete</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/edu/univas/projeto/tcc/files/image/accept.png</name>
+			<type>1</type>
+			<location>C:/Delphi/icones/16px_basico/accept [botoes_costela_48] Z (Copiar) (Copiar).png</location>
+		</link>
+		<link>
+			<name>src/edu/univas/projeto/tcc/files/image/attach_image [botoes_costela_48] Z (Copiar) (Copiar).png</name>
+			<type>1</type>
+			<location>C:/Delphi/icones/16px_basico/attach_image [botoes_costela_48] Z (Copiar) (Copiar).png</location>
+		</link>
+		<link>
+			<name>src/edu/univas/projeto/tcc/files/image/bcancel.png</name>
+			<type>1</type>
+			<location>C:/Delphi/icones/16px_basico/button_cancel [botoes_costela_48] X (Copiar) (Copiar).png</location>
+		</link>
+		<link>
+			<name>src/edu/univas/projeto/tcc/files/image/copia.png</name>
+			<type>1</type>
+			<location>C:/Delphi/icones/32px_basico/Arreter_3308 (Copiar).png</location>
+		</link>
+		<link>
+			<name>src/edu/univas/projeto/tcc/files/image/del.png</name>
+			<type>1</type>
+			<location>C:/Delphi/icones/16px_basico/delete [botoes_costela_48] Z (Copiar) (Copiar).png</location>
+		</link>
+		<link>
+			<name>src/edu/univas/projeto/tcc/files/image/edit.png</name>
+			<type>1</type>
+			<location>C:/Delphi/icones/16px_basico/kedit [botoes_costela_48] X (Copiar) (Copiar).png</location>
+		</link>
+		<link>
+			<name>src/edu/univas/projeto/tcc/files/image/fechar.png</name>
+			<type>1</type>
+			<location>C:/Delphi/icones/16px_basico/Arreter_3308 (Copiar) (Copiar).png</location>
+		</link>
+		<link>
+			<name>src/edu/univas/projeto/tcc/files/image/listar.png</name>
+			<type>1</type>
+			<location>C:/Delphi/icones/16px_basico/refresh [botoes_costela_48] Z (Copiar) (Copiar).png</location>
+		</link>
+		<link>
+			<name>src/edu/univas/projeto/tcc/files/image/pesquisar.png</name>
+			<type>1</type>
+			<location>C:/Delphi/icones/16px_basico/Search [botoes_costela_48] M (Copiar) (Copiar).png</location>
+		</link>
+		<link>
+			<name>src/edu/univas/projeto/tcc/files/image/print.png</name>
+			<type>1</type>
+			<location>C:/Delphi/icones/16px_basico/Print [botoes_costela_48] M (Copiar) (Copiar).png</location>
+		</link>
+	</linkedResources>
+</projectDescription>

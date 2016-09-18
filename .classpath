@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src.projeto"/>
+	<classpathentry kind="src" path="src.teste.unit"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="lib/postgresql-8.3-603.jdbc3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-collections-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-digester-1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-javaflow-20060411.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/DnD.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/font.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/groovy-all-1.7.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/iText-2.1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jakarta-regexp-1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jasperreports-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jfcunit.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mysql-connector-java-5.1.10-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/SwingSet.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/swingx-0.9.4.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
